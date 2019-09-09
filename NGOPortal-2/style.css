@@ -1,0 +1,45 @@
+.root
+{
+    -fx-font-size: 15pt;
+    -fx-base: azure;
+    -fx-background: aliceblue;
+}
+
+.menu-bar
+{
+  -fx-background-color: aliceblue;
+  -fx-border-width: 2
+
+}
+
+.menu-bar .label
+{
+    -fx-font-size: 20 pt;
+    -fx-text-fill: black;
+
+}
+
+.menu .label
+{
+     -fx-text-fill: black;
+}
+
+.loginbutton
+{
+    -fx-font-size: 20 pt;
+    -fx-background-color: aliceblue;
+}
+
+.label
+{
+    -fx-font-size: 20 pt;
+    -fx-text-fill: black;
+}
+
+.allbuttons
+{
+    -fx-font-size: 20 pt;
+    -fx-background-color: deepskyblue;
+    -fx-text-fill: black;
+    -fx-border: black;
+}
